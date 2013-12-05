@@ -1,0 +1,426 @@
+﻿%
+{
+"_id":1,
+"SchoolName":"Princeton University",
+"department":
+[
+{"DepartmentName":"Computer Science",
+"toeflscore":90,
+"grescore":327,
+"ieltscore":7},
+{"DepartmentName":"Computer Engineering",
+"toeflscore":80,
+"grescore":319,
+"ieltscore":7},
+{"DepartmentName":"Electrical Engineering",
+"toeflscore":80,
+"grescore":320,
+"ieltscore":7},
+{"DepartmentName":"Mechanical Engineering",
+"toeflscore":80,
+"grescore":323,
+"ieltscore":7}
+],
+"location":"Princeton University, Princeton, NJ- 08540",
+"tutionFees":40292,
+"FallApplnDate":"15December2014",
+"SpringApplnDate":"NA",
+"contactInfo":"609-258-3060"}
+%
+{
+"_id":2,
+"SchoolName":"San Jose State University",
+"department":
+[
+{"DepartmentName":"Computer Science",
+"toeflscore":105,
+"grescore":294,
+"ieltscore":6},
+{"DepartmentName":"Software Engineering",
+"toeflscore":80,
+"grescore":280,
+"ieltscore":6},
+{"DepartmentName":"Electrical Engineering",
+"toeflscore":80,
+"grescore":291,
+"ieltscore":6},
+{"DepartmentName":"Mechanical Engineering",
+"toeflscore":80,
+"grescore":280,
+"ieltscore":6}
+],
+"location":"One Washington Square,San Jose, CA 95192",
+"tutionFees":28000,
+"FallApplnDate":"12March2014",
+"SpringApplnDate":"12September2014",
+"contactInfo":"408-924-1000"}
+%
+{
+"_id":3,
+"SchoolName":"Harvard University",
+"department":
+[
+{"DepartmentName":"Computer Science",
+"toeflscore":100,
+"grescore":329,
+"ieltscore":8},
+{"DepartmentName":"Software Engineering",
+"toeflscore":100,
+"grescore":327,
+"ieltscore":8},
+{"DepartmentName":"Electrical Engineering",
+"toeflscore":80,
+"grescore":324,
+"ieltscore":7},
+{"DepartmentName":"Mechanical Engineering",
+"toeflscore":80,
+"grescore":323,
+"ieltscore":7}
+],
+"location":"Cambridge,MA', address : 'Massachusetts Ave, Cambridge, MA 02138",
+"tutionFees":40292,
+"FallApplnDate":"'15December2013",
+"SpringApplnDate":"NA",
+"contactInfo":" (617) 495-1000"}
+%
+{
+"_id":4,
+"SchoolName":"Columbia University",
+"department":
+[
+{"DepartmentName":"Computer Science",
+"toeflscore":85,
+"grescore":300,
+"ieltscore":6},
+{"DepartmentName":"Computer Engineering",
+"toeflscore":85,
+"grescore":300,
+"ieltscore":5},
+{"DepartmentName":"Electrical Engineering",
+"toeflscore":85,
+"grescore":297,
+"ieltscore":5},
+{"DepartmentName":"Mechanical Engineering",
+"toeflscore":85,
+"grescore":297,
+"ieltscore":5}
+],
+"location":"535 W 116th St, New York, NY 10027",
+"tutionFees":45000,
+"FallApplnDate":"15December2014",
+"SpringApplnDate":"NA",
+"contactInfo":"609-258-3060"}
+%
+{
+"_id":5,
+"SchoolName":"Yale University",
+"department":
+[
+{"DepartmentName":"Computer Science",
+"toeflscore":80,
+"grescore":327,
+"ieltscore":7},
+{"DepartmentName":"Computer Engineering",
+"toeflscore":80,
+"grescore":319,
+"ieltscore":7},
+{"DepartmentName":"Electrical Engineering",
+"toeflscore":80,
+"grescore":320,
+"ieltscore":7},
+{"DepartmentName":"Mechanical Engineering",
+"toeflscore":80,
+"grescore":323,
+"ieltscore":7}
+],
+"location":"New Haven, CT 06520",
+"FallApplnDate":"15December2014",
+"tutionFees":45000,
+"SpringApplnDate":"NA",
+"contactInfo":"690-445-7655"}
+%
+{
+"_id":6,
+"SchoolName":"Stanford University",
+"department":
+[
+{"DepartmentName":"Computer Science",
+"toeflscore":90,
+"grescore":330,
+"ieltscore":8},
+{"DepartmentName":"Computer Engineering",
+"toeflscore":90,
+"grescore":329,
+"ieltscore":8},
+{"DepartmentName":"Electrical Engineering",
+"toeflscore":90,
+"grescore":320,
+"ieltscore":8},
+{"DepartmentName":"Mechanical Engineering",
+"toeflscore":90,
+"grescore":324,
+"ieltscore":8}
+],
+"location":"450 Serra Mall, Stanford, CA 94305",
+"FallApplnDate":"15December2013",
+"tutionFees":45000,
+"SpringApplnDate":"NA",
+"contactInfo":"408-787-1000"}
+%
+{
+"_id":7,
+"SchoolName":"Massachusetts Institute of Technology ",
+"department":
+[
+{"DepartmentName":"Computer Science",
+"toeflscore":100,
+"grescore":329,
+"ieltscore":9},
+{"DepartmentName":"Computer Engineering",
+"toeflscore":100,
+"grescore":328,
+"ieltscore":9},
+{"DepartmentName":"Electrical Engineering",
+"toeflscore":100,
+"grescore":327,
+"ieltscore":9}
+],
+"location":"77 Massachusetts Avenue, Room 1-206, Cambridge, MA 02139",
+"FallApplnDate":"15December2013",
+"tutionFees":41770,
+"SpringApplnDate":"NA",
+"contactInfo":"617-253-2201"}
+%
+{
+"_id":8,
+"SchoolName":"California Institute of Technology ",
+"department":
+[
+{"DepartmentName":"Computer Science",
+"toeflscore":100,
+"grescore":326,
+"ieltscore":9},
+{"DepartmentName":"Computer Engineering",
+"toeflscore":100,
+"grescore":325,
+"ieltscore":9},
+{"DepartmentName":"Mechanical Engineering",
+"toeflscore":100,
+"grescore":323,
+"ieltscore":9}
+],
+"location":"1200 E. California Boulevard Pasadena, CA 91125",
+"FallApplnDate":"31December2013",
+"tutionFees":38084,
+"SpringApplnDate":"NA",
+"contactInfo":"626-395-6811"}
+%
+{
+"_id":9,
+"SchoolName":"Carnegie Mellon University ",
+"department":
+[
+{"DepartmentName":"Computer Science",
+"toeflscore":90,
+"grescore":320,
+"ieltscore":8},
+{"DepartmentName":"Computer Engineering",
+"toeflscore":90,
+"grescore":319,
+"ieltscore":8},
+{"DepartmentName":"Mechanical Engineering",
+"toeflscore":90,
+"grescore":318,
+"ieltscore":8},
+{"DepartmentName":"Electrical Engineering",
+"toeflscore":90,
+"grescore":319,
+"ieltscore":8},
+{"DepartmentName":"Aerospace Engineering",
+"toeflscore":90,
+"grescore":319,
+"ieltscore":8}
+],
+"location":"5000 Forbes Avenue Pittsburgh, PA 15213",
+"FallApplnDate":"21December2013",
+"tutionFees":38084,
+"SpringApplnDate":"15March2012",
+"contactInfo":"412-268-5259"}
+%
+{
+"_id":10,
+"SchoolName":"University of Southern California",
+"department":
+[
+{"DepartmentName":"Computer Science",
+"toeflscore":90,
+"grescore":320,
+"ieltscore":8},
+{"DepartmentName":"Computer Engineering",
+"toeflscore":90,
+"grescore":319,
+"ieltscore":8},
+{"DepartmentName":"Mechanical Engineering",
+"toeflscore":90,
+"grescore":318,
+"ieltscore":8},
+{"DepartmentName":"Electrical Engineering",
+"toeflscore":90,
+"grescore":319,
+"ieltscore":8}
+],
+"location":"University Park, Olin Hall 200 Los Angeles, CA 90089",
+"FallApplnDate":"15December2013",
+"tutionFees":28242,
+"SpringApplnDate":"30March2014",
+"contactInfo":"412-268-5259"}
+%
+{
+"_id":11,
+"SchoolName":"University of Maryland–​College Park",
+"department":
+[
+{"DepartmentName":"Computer Science",
+"toeflscore":90,
+"grescore":321,
+"ieltscore":8},
+{"DepartmentName":"Computer Engineering",
+"toeflscore":90,
+"grescore":319,
+"ieltscore":8},
+{"DepartmentName":"Mechanical Engineering",
+"toeflscore":90,
+"grescore":318,
+"ieltscore":8},
+{"DepartmentName":"Electrical Engineering",
+"toeflscore":90,
+"grescore":319,
+"ieltscore":8}
+],
+"location":"3110 Jeong H. Kim Engineering Building College Park, MD 0742",
+"FallApplnDate":"15December2013",
+"tutionFees":23760,
+"SpringApplnDate":"30March2014",
+"contactInfo":"301-405-0287"}
+%
+{
+"_id":12,
+"SchoolName":"Georgia Institute of Technology",
+"department":
+[
+{"DepartmentName":"Aerospace engineering",
+"toeflscore":80,
+"grescore":327,
+"ieltscore":7},
+{"DepartmentName":"Biological/Agricultural engineering",
+"toeflscore":80,
+"grescore":319,
+"ieltscore":7},
+{"DepartmentName":"Architecture",
+"toeflscore":80,
+"grescore":320,
+"ieltscore":7},
+{"DepartmentName":"Chemical engineering",
+"toeflscore":80,
+"grescore":311,
+"ieltscore":7},
+{"DepartmentName":"Civil engineering",
+"toeflscore":80,
+"grescore":300,
+"ieltscore":7},
+{"DepartmentName":"Computer engineering",
+"toeflscore":80,
+"grescore":320,
+"ieltscore":7},
+{"DepartmentName":"Biomedical engineering",
+"toeflscore":80,
+"grescore":313,
+"ieltscore":7}
+],
+"location":"Georgia Institute of Technology, 225 North Avenue, Atlanta, GA 30332",
+"tutionFees":26860,
+"FallApplnDate":"15December2014",
+"SpringApplnDate":"NA",
+"contactInfo":"404-894-3000"}
+%
+
+{
+"_id":13,
+"SchoolName":"Texas A&M University",
+"department":
+[
+{"DepartmentName":"Aerospace engineering",
+"toeflscore":80,
+"grescore":327,
+"ieltscore":7},
+{"DepartmentName":"Biological/Agricultural engineering",
+"toeflscore":80,
+"grescore":319,
+"ieltscore":7},
+{"DepartmentName":"Architecture",
+"toeflscore":80,
+"grescore":320,
+"ieltscore":7},
+{"DepartmentName":"Chemical engineering",
+"toeflscore":80,
+"grescore":311,
+"ieltscore":7},
+{"DepartmentName":"Civil engineering",
+"toeflscore":80,
+"grescore":300,
+"ieltscore":7},
+{"DepartmentName":"Computer engineering",
+"toeflscore":80,
+"grescore":320,
+"ieltscore":7},
+{"DepartmentName":"Biomedical engineering",
+"toeflscore":80,
+"grescore":313,
+"ieltscore":7}
+],
+"location":"Texas A&M University, 204 Zachry Engineering Center, College Station, TX 77843",
+"tutionFees":34890,
+"FallApplnDate":"15December2014",
+"SpringApplnDate":"NA",
+"contactInfo":"979-845-5520"}
+%
+{
+"_id":14,
+"SchoolName":"Cornell University",
+"department":
+[
+{"DepartmentName":"Aerospace engineering",
+"toeflscore":80,
+"grescore":327,
+"ieltscore":7},
+{"DepartmentName":"Biological/Agricultural engineering",
+"toeflscore":80,
+"grescore":319,
+"ieltscore":7},
+{"DepartmentName":"Architecture",
+"toeflscore":80,
+"grescore":320,
+"ieltscore":7},
+{"DepartmentName":"Chemical engineering",
+"toeflscore":80,
+"grescore":311,
+"ieltscore":7},
+{"DepartmentName":"Civil engineering",
+"toeflscore":80,
+"grescore":300,
+"ieltscore":7},
+{"DepartmentName":"Computer engineering",
+"toeflscore":80,
+"grescore":320,
+"ieltscore":7},
+{"DepartmentName":"Biomedical engineering",
+"toeflscore":80,
+"grescore":313,
+"ieltscore":7}
+],
+"location":"Cornell University,242 Carpenter Hall,Ithaca, NY 14853",
+"tutionFees":29500,
+"FallApplnDate":"15December2014",
+"SpringApplnDate":"NA",
+"contactInfo":"607-255-5250"}
+%
